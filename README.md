@@ -1,6 +1,6 @@
 # CRUDexercice
 
-# Express CRUD Application
+## CRUD exercice
 
 This is a simple Express application that implements CRUD operations for managing users.
 
@@ -14,8 +14,8 @@ This is a simple Express application that implements CRUD operations for managin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/express-crud-app.git
-   cd express-crud-app
+   git clone git@github.com:CalliEtc/CRUDexercice.git
+   cd CRUDexercice
 
 2. install and launch
 
